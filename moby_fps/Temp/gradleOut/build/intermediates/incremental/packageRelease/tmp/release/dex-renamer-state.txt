@@ -1,0 +1,4 @@
+#Fri Sep 06 23:07:15 AEST 2019
+base.0=D\:\\3d2019\\tafe_2019\\dip\\tb_fps\\moby_fps\\moby_fps\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
